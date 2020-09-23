@@ -1,0 +1,6 @@
+Ràng buộc dữ liệu Data Binding:
+- One time binding - một lần
+- One way binding - một chiều (thay đổi control nhưng không thay đổi datasource)
+- Two way binding - hai chiều (control datasource)
+
+chuyển form hoặc link ra một web brower bất kì:  LinkButton

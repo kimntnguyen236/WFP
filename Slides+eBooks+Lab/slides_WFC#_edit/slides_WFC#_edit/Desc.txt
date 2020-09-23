@@ -1,0 +1,5 @@
+Lab 7 - print 
+Lab 6 edit - chỉnh sửa text box rồi update qua dgv (keypress cho dgv đổ dl qua textbox) - các movefirst,last,...
+Lab 8 hoặc 9 có report (cách tạo report : tạo form có chứa report viewer - dataset có bảng muốn hiển thị report - add crytal reports - quay về form ấn mũi tên -> choose ....)
+Pretest 1 - chọn 1 cái đổ vào dgv rồi chọn từ dgv này đổ sang dgv khác
+pretest 2 - chọn 1 cái đổ dữ liệu vào textbox sau đó update

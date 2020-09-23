@@ -1,0 +1,30 @@
+SQL:
+------------------------------
+SELECT [column],...
+FROM table_name
+WHERE <condition>
+ORDER BY [column] ASC | DESC
+------------------------------
+
+==============================
+LINQ:
+------------------------------
+FROM [variable_name] 
+IN datasource_name
+WHERE <condition>
+ORDER BY [column] ASC | DESC
+SELECT [variable_name] 
+------------------------------
+var i;
+i = 20; 
+==> SAI. Vì cách khai báo này không tường minh nên sẽ không hiểu var i là kiểu gì, nên phải khai báo gộp để nó hiểu là kiểu i là kiểu gì.
+var i =20; ==> ĐÚNG 
+khai báo không tường minh 
+------------------------------
+khai báo tường minh
+int i;
+i = 20;
+
+// Vừa khai báo vừa khởi tạo : int i = 20;
+
+- Cách tạo report: tạo form có chứa report viewer - dataset - add crytal reports - choose ....
