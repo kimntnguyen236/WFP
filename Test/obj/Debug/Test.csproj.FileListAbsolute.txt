@@ -1,0 +1,14 @@
+D:\AptechSem3\WFP\Test\bin\Debug\Test.exe.config
+D:\AptechSem3\WFP\Test\bin\Debug\Test.exe
+D:\AptechSem3\WFP\Test\bin\Debug\Test.pdb
+D:\AptechSem3\WFP\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\AptechSem3\WFP\Test\obj\Debug\Test.AddCategory.resources
+D:\AptechSem3\WFP\Test\obj\Debug\Test.AddNewProduct.resources
+D:\AptechSem3\WFP\Test\obj\Debug\Test.Form1.resources
+D:\AptechSem3\WFP\Test\obj\Debug\Test.ListProduct.resources
+D:\AptechSem3\WFP\Test\obj\Debug\Test.Properties.Resources.resources
+D:\AptechSem3\WFP\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\AptechSem3\WFP\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\AptechSem3\WFP\Test\obj\Debug\Test.exe
+D:\AptechSem3\WFP\Test\obj\Debug\Test.pdb
+D:\AptechSem3\WFP\Test\obj\Debug\Test.About.resources
